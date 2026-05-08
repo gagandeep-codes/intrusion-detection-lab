@@ -72,7 +72,7 @@ Planned additions to this repository:
 
 I'm Gagandeep Singh, a cybersecurity practitioner sharing my hands-on work publicly.
 
-- 📝 [LinkedIn](#) — full write-ups and reflections
+- 📝 [LinkedIn](https://www.linkedin.com/pulse/building-cybersecurity-lab-hands-on-foundation-intrusion-singh-o4wue) — full write-ups and reflections
 - 💼 Open to opportunities in cybersecurity (SOC analyst, penetration testing, threat detection, incident response)
 
 If you're learning alongside me, hiring in the space, or just want to talk security — reach out.
